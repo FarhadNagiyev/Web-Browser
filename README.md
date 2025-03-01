@@ -1,2 +1,3 @@
-# Web-Browser
-Homemade web browser
+# to run the code
+``python main.py``
+
